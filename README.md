@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Cloud-AI-LLM-Service)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-AI-LLM-Service?style=flat-square)](https://github.com/ishandutta2007/Awesome-Cloud-AI-LLM-Service/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-AI-LLM-Service?style=flat-square)](https://github.com/ishandutta2007/Awesome-Cloud-AI-LLM-Service/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-AI-LLM-Service?style=flat-square)](https://github.com/ishandutta2007/Awesome-Cloud-AI-LLM-Service/network)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -263,7 +263,7 @@ We welcome contributions from the community! To propose additions or updates:
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/Edit** entries in [README.md](README.md) following our standardized tabular or listed schema.
-3. 🔍 **Verify Data**: Ensure pricing details, free tier limits, star counts, and licensing information are accurate and verifiable.
+3. 🔍 **Verify Data**: Ensure pricing details, free tier limits, Stars_Counts, and licensing information are accurate and verifiable.
 4. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
 ---
